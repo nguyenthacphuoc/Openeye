@@ -1,0 +1,6 @@
+{
+  "name": "WakeGuard - Trợ Lý Chống Ngủ Gật",
+  "description": "Hệ thống giám sát camera AI cảnh báo chống buồn ngủ, kêu chuông to khi nhắm mắt, hỗ trợ cửa sổ nổi Picture-in-Picture chạy ngầm khi dùng ứng dụng khác.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
